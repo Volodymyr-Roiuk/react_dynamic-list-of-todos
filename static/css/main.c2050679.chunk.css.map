@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,KACE,YACF,CAEA,sBACE,YAAa,CACb,6BACF","file":"main.c2050679.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\nbody {\n  padding: 50px;\n}\n\n.sortButtonsContainer {\n  display: flex;\n  justify-content: space-between;\n}\n"]}
